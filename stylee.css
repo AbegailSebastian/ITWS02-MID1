@@ -1,0 +1,136 @@
+html,
+body {
+     margin: 0;
+     font-weight: 300s;
+     background-color: #250101;
+     background-image: url(eko.png);
+     background-repeat: repeat-x;
+     background-size: contain;
+}
+
+header {
+     background-repeat: repeat;
+     background-size: contain;
+     text-align: center;
+     max-width: 100%;
+    padding: 350px;
+     
+     
+}
+
+h1 {
+     font-size: 100px;
+     color: white;
+}
+
+h2 {
+     text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+}
+
+header img {
+     margin-top: 50px;
+     height: 500px;
+     width: 900px;
+ 
+}
+.title-text {
+     position: absolute;
+     left: 360px;
+     bottom: 50px;
+     margin: 0px;
+     z-index: 5;
+
+
+}
+
+.content {
+	background-image: url('bg7.jpg');
+	margin-top: 35px;
+     
+     
+
+}
+.content-header {
+	font-family: serif;
+	font-size: 25px;
+	color: white;
+	margin-left: 150px;
+     
+}
+
+p{
+	color: rgb(245, 245, 220);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	margin-left: 190px;
+	margin-right: 190px;
+
+}
+ol
+{
+     font-family: Arial, Helvetica, sans-serif;
+	margin-left: 190px;
+	font-size: 18px;
+
+}
+img.big-image {
+	margin: 0 auto;
+	display: block;
+	border-radius: 20px;
+	box-shadow: 0 0 50px #AA3939;
+     max-width: 100%;
+}
+h3{
+     text-align: center;
+     font-size: 15px;
+     color: lightgray;
+}
+p.cap3on {
+     font-size: 16px;
+     color: white;
+     font-style: italic;
+     text-align: center;
+
+}
+h4{
+	margin-left: 30px;
+	font-family: Helvetica, sans-serif;
+	font-size: 30px;
+	color: whitesmoke;
+}
+li {
+     color: white;
+     font-size: 20px;
+    margin: 0 auto;
+}
+
+ul {
+	margin: 0 auto;
+     list-style: none;
+    
+}
+
+a {
+     color: red;
+     text-decora3on: none;
+
+}
+
+footer {
+	font-family: Verdana;
+	font-size: 15px;
+     margin-top: 20px;
+     padding: 30px 20px;
+     background-color: #550000;
+}
+
+footer ul {
+     text-align: center;
+}
+
+footer ul li {
+     display: inline-block;
+     margin: 0 5px;
+}
